@@ -27,7 +27,7 @@ Por tanto se recomienda emplear un programa como Postman o Curl para comprobar s
 * Flask
   
 ### Ejecución
-Para iniciar la palicación ejecutar el comando: python server.py\
+Para iniciar la palicación ejecutar el comando: _python server.py_\
 Para terminar la aplicación pulsar Ctrl+C
 
 ## Funcionamiento
