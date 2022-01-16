@@ -10,6 +10,10 @@
 > O bien, dede Eclipse Marketplace (en caso de usar dicho IDE)
 > ![img-spring2](https://github.com/bokdelajungla/DevOps_AD1_ServiciosWeb/blob/adri/DevOps_AD1_WebService/imgs/spring_install2.png)
 
-## Descripción
+- Spring Boot version 3.3+
+> Descargarla desde el url: https://maven.apache.org/download.cgi
 
-## Funcionamiento
+- Java version 11+
+
+> Versiones del proyecto
+> ![img-spring2](https://github.com/bokdelajungla/DevOps_AD1_ServiciosWeb/blob/adri/DevOps_AD1_WebService/imgs/versions.png)
