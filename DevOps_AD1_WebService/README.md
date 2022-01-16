@@ -4,8 +4,8 @@
 
 Aplicación Java que proporciona un servicio web con dos endpoints. 
 
-> El servidor corre en el puerto 12345.
-> ![img-port](https://github.com/bokdelajungla/DevOps_AD1_ServiciosWeb/blob/adri/DevOps_AD1_WebService/imgs/port.png)
+El servidor corre en el puerto 12345.
+![img-port](https://github.com/bokdelajungla/DevOps_AD1_ServiciosWeb/blob/adri/DevOps_AD1_WebService/imgs/port.png)
 
 ### Endpoint1
 
