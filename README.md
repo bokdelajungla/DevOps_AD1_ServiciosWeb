@@ -49,6 +49,9 @@ Si se emplea un verbo distinto de POST devolverá un error 405 Method Not Allowe
 Si no se incluye el parámetro "string" devolverá una respuesta 400 BAD REQUEST con un json en el cuerpo con información sobre el error (debe incluir el parámetro string).\
 Si se envía más de una palabra devolvera una respuesta 400 BAD REQUEST con un json en el cuerpo con información sobre el error (debe enviar una única palabra).
 
+## Ejecutable
+Se ha intentado crear un ejecutable, server.exe, para distribuciones Windows 10 mediante el uso de pyinstaller, y se ha depositado en el directorio "dist/server".
+
 ## Autores ✒️
 
 Los componentes del grupo:
