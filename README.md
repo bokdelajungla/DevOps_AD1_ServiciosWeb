@@ -5,9 +5,9 @@ Repositorio para la actividad 1 de DevOps sobre Servicios Web
 El objetivo es programar un servicio web. Este servicio web escuchará en el puerto 12345 y expondrá dos endpoints:
 * El primero recibe una cadena de caracteres, de longitud arbitraria, y la almacena en un fichero en disco.
 * El segundo recibirá una única palabra (sin espacios). Se devolverá el número total de las cadenas del citado fichero que la contengan, sin tener en cuenta:
-   ** Mayúsculas (CADENA == Cadena).
-   ** Posibles acentos (avión == Avion).
-   ** Múltiples apariciones en la misma cadena cuentan como una única.
+   * Mayúsculas (CADENA == Cadena).
+   * Posibles acentos (avión == Avion).
+   * Múltiples apariciones en la misma cadena cuentan como una única.
 
 Como requisito, el fichero donde se guardan los datos se debe persistir en disco y leerlo al arrancar el proceso. Si no existe, se creará vacío.\
 
