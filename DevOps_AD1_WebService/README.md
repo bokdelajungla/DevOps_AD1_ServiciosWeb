@@ -15,5 +15,8 @@
 
 - Java version 11+
 
-> Versiones del proyecto
-> ![img-spring2](https://github.com/bokdelajungla/DevOps_AD1_ServiciosWeb/blob/adri/DevOps_AD1_WebService/imgs/versions.png)
+## Versiones del proyecto
+
+![img-spring2](https://github.com/bokdelajungla/DevOps_AD1_ServiciosWeb/blob/adri/DevOps_AD1_WebService/imgs/versions.png)
+
+## Versiones del proyecto
