@@ -5,7 +5,7 @@ una que guarda la cadena que se le envia como parámetro en un fichero
 y otro que devuelve el número de veces de una cadena aparece al menos una vez
 en cada una de las lineas del fichero, ignorando mayúsculas y tildes
 
-@autor: Antonio De Gea Velasco, Adrian Rodriguez Montesinos, Jorge Sánchez-Alor Expósito
+@autores: Antonio De Gea Velasco, Adrian Rodriguez Montesinos, Jorge Sánchez-Alor Expósito
 
 '''
 
