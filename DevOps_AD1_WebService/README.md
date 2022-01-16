@@ -5,9 +5,10 @@
 - Spring Boot version 2.6+
 
 > Es posible descargarla desde el url: https://spring.io/tools
-![img-spring1](https://github.com/bokdelajungla/DevOps_AD1_ServiciosWeb/blob/adri/DevOps_AD1_WebService/imgs/spring_install1.png)
+> ![img-spring1](https://github.com/bokdelajungla/DevOps_AD1_ServiciosWeb/blob/adri/DevOps_AD1_WebService/imgs/spring_install1.png)
+
 > O bien, dede Eclipse Marketplace (en caso de usar dicho IDE)
-![img-spring2](https://github.com/bokdelajungla/DevOps_AD1_ServiciosWeb/blob/adri/DevOps_AD1_WebService/imgs/spring_install2.png)
+> ![img-spring2](https://github.com/bokdelajungla/DevOps_AD1_ServiciosWeb/blob/adri/DevOps_AD1_WebService/imgs/spring_install2.png)
 
 ## Descripción
 
