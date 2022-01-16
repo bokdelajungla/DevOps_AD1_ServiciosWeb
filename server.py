@@ -34,11 +34,12 @@ def hello_world():
 
 # El endpoint "almacena"
 '''
-El endpoint recibe la cadena como parámetro y la guarda en una nueva línea del fichero
-cadenas.txt
+El endpoint recibe la cadena como parámetro y la guarda en una nueva línea del fichero cadenas.txt
 El nombre del parámetro es 'string'
-Devuelve una respuesta HTML 200 OK
-con un json en el cuerpo indicando que el mensaje se ha creado correctamente
+la petición tiene el formato /almacena?string
+Devuelve: 
+    * una respuesta HTML 200 OK con un json en el cuerpo indicando que el mensaje se ha creado correctamente
+    * una respuesta HTML 400 BAD REQUEST con un json en el cuerpo si la petición no es correcta
 '''
 
 
@@ -61,8 +62,10 @@ def almacenar():
 El endpoint recibe la cadena como parámetro y comprueba el número de veces que aparece dentro del fichero
 cadenas.txt
 El nombre del parámetro es 'string'
-Devuelve una respuesta HTML 200 OK
-con un json en el cuerpo indicando que el numero de veces que se ha encontrado la cadena en el fichero
+Devuelve:
+Devuelve: 
+    * una respuesta HTML 200 OK con un json en el cuerpo indicando el número de veces que se ha encontrado la palabra
+    * una respuesta HTML 400 BAD REQUEST con un json en el cuerpo si la petición no es correctauna respuesta
 '''
 
 
