@@ -25,8 +25,9 @@ Se ha considerado que como se está enviando información al servidor el verbo H
 Por tanto se recomienda emplear un programa como Postman o Curl para comprobar su funcionamiento. 
 
 ### Dependencias
-  Python 3.7+
-  Flask
+* Python 3.7+
+* Flask
+  
 ### Ejecución
 Para iniciar la palicación ejecutar el comando: python server.py
 Para terminar la aplicación pulsar Ctrl+C
@@ -48,4 +49,10 @@ Para llevar a cabo la consulta de una palabra en el fichero se debe realizar un 
  Si no se incluye el parámetro "string" devolverá una respuesta 400 BAD REQUEST con un json en el cuerpo con información sobre el error (debe incluir el parámetro string).
  Si se envía más de una palabra devolvera una respuesta 400 BAD REQUEST con un json en el cuerpo con información sobre el error (debe enviar una única palabra).
 
+## Autores ✒️
 
+Los componentes del grupo:
+
+* **Antonio De Gea Velasco**
+* **Adrian Rodriguez Montesinos**
+* **Jorge Sánchez-Alor Expósito**
